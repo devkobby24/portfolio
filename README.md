@@ -1,4 +1,4 @@
-```
+```markdown
 # Personal Portfolio Website
 
 A portfolio website built with **Next.js 14**, **Tailwind CSS**, and **Framer Motion** to showcase projects, skills, and experiences with a focus on responsiveness and smooth animations.
